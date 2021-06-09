@@ -3,6 +3,6 @@ matplotlib-venn==0.11.4
 matplotlib==2.1.2
 mysql-connector-python-rf==2.2.2
 pandas==0.17.1
-pip==9.0.1
+pip==19.2
 scipy==0.19.1
 
